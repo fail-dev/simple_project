@@ -1,1 +1,1 @@
-# simple_project
+#  Stick Hero simple project
